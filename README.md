@@ -1,5 +1,6 @@
 ## 🧠 Machine Learning for Beginners
 Welcome to my Machine Learning Journey — a hands-on exploration of ML concepts, algorithms, and practical implementations. This repository documents my learning path from fundamentals to real-world applications.
+
 - 🚀 What You’ll Find
 - 📚 Step-by-step Jupyter notebooks with clean explanations
 - 🧩 Implementations of core ML algorithms from scratch
@@ -7,6 +8,7 @@ Welcome to my Machine Learning Journey — a hands-on exploration of ML concepts
 - 📊 Visualizations for better understanding
 
 ## 🧠 Topics Covered
+
 - Linear & Logistic Regression
 - Decision Trees & Random Forests
 - KNN, SVM, Naive Bayes
