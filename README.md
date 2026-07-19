@@ -4,6 +4,7 @@ Welcome to my Machine Learning Journey — a hands-on exploration of ML concepts
 
 ##  🚀 What You’ll Find
 - 📚 Step-by-step Jupyter notebooks with clean explanations
+
 - 🧩 Implementations of core ML algorithms from scratch
 - 🔍 Projects based on real datasets
 - 📊 Visualizations for better understanding
